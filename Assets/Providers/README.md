@@ -5,19 +5,6 @@
 | :us: | Situs/konten dalam bahasa Inggris (US/UK) |
 | :jp: | Situs/konten dalam bahasa Jepang |
 | :indonesia: | Situs/konten dalam bahasa Indonesia |
-### Official
-
-| No. | Simulcast | Store |
-| --- | --------- | ----- |
-| 1 | [![哔哩哔哩](https://www.google.com/s2/favicons?domain=bilibili.com "哔哩哔哩")](https://bilibili.com) [哔哩哔哩](https://bilibili.com) :cn: | [![Amazon](https://www.google.com/s2/favicons?domain=amazon.com "Amazon")](https://amazon.com) [Amazon](https://amazon.com) :us: |
-| 2 | [![Crunchyroll](https://www.google.com/s2/favicons?domain=crunchyroll.com "Crunchyroll")](https://crunchyroll.com) [Crunchyroll](https://crunchyroll.com) :us: :indonesia: | [![cdJapan](https://www.google.com/s2/favicons?domain=cdjapan.co.jp "cdJapan")](https://cdjapan.co.jp) [cdJapan](https://cdjapan.co.jp) :jp: |
-| 3 | [![Funimation](https://www.google.com/s2/favicons?domain=funimation.com "Funimation")](https://funimation.com) [Funimation](https://funimation.com) :us: | [![iTunes](https://www.google.com/s2/favicons?domain=apple.com "iTunes")](https://www.apple.com/id/itunes/) [iTunes Store](https://www.apple.com/id/itunes/) :us: :indonesia: |
-| 4 | [![HIDIVE](https://www.google.com/s2/favicons?domain=hidive.com "HIDIVE")](https://hidive.com) [HIDIVE](https://hidive.com) :us: | [![Microsoft Store](https://www.google.com/s2/favicons?domain=microsoft.com "Microsoft Store")](https://www.microsoft.com/en-us/store/b/home) [Microsoft Store](https://www.microsoft.com/en-us/store/b/home) :us: |
-| 5 | [![Hulu](https://www.google.com/s2/favicons?domain=hulu.com "Hulu")](https://hulu.com) [Hulu](https://hulu.com) :us: | 
-| 6 | [![iflix](https://piay.iflix.com/app/favicon.ico "iflix")](https://www.iflix.com) [iflix](https://www.iflix.com) :indonesia: |
-| 7 | [![Netflix](https://www.google.com/s2/favicons?domain=netflix.com "Netflix")](https://www.netflix.com) [Netflix](https://www.netflix.com) :us: :indonesia: | 
-| 8 | [![ニコニコ動画](https://www.google.com/s2/favicons?domain=nicovideo.jp "ニコニコ動画")](https://nicovideo.jp) [ニコニコ動画](https://nicovideo.jp) :jp: |
-| 9 | [![Ponimu](https://www.google.com/s2/favicons?domain=ponimu.com "Ponimu")](https://ponimu.com/home) [Ponimu](https://ponimu.com/home) :indonesia: |
 
 ### Fansub, Fanshare, dan Fanstream.
 | No. | Fansub | Fanshare | Fanstream | _Library_ |
