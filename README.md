@@ -1,5 +1,8 @@
 <html>
     <head>
+        <h1>TELAH DIPINDAHKAN KE <code>ryuuganime/Ryuuganime</code></h1>
+        <p>Repo disini tidak dihapus demi menghindari konflik data pada situs</p>
+        <br />
         <strong><a href="https://ryuuganime.blogspot.com"><h1>Ryuuganime</h1></a></strong>
             <p>Portal Indeks Anime Subtitel Indonesia Terlengkap</p>
             <a href="https://discord.gg/nWHwkuT"><img alt="Discord" src="https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square"></a>&#32;&#32;&#32;&#32;<a href='https://ko-fi.com/U6U1YGDN' target='_blank'><img height='20' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
